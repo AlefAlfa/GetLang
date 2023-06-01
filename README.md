@@ -3,7 +3,7 @@
 ---
 ## Getlang - Language Detection from Audio Files
 
-Welcome to Getlang! This is an open-source project aimed at helping you detect the language spoken in an audio file. Built using the power of the `whisper` model, Getlang provides a simple interface for audio language detection.
+Welcome to Getlang! This is an open-source project aimed at helping you detect the language spoken in an audio file. Built using the power of the OpenAI's `whisper` model, Getlang provides a simple interface for audio language detection.
 
 ---
 
