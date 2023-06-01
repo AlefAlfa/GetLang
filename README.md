@@ -51,4 +51,4 @@ We hope you find Getlang helpful. Enjoy exploring the world of languages!
 
 Happy coding!
 
-The Getlang Team
+Lev
