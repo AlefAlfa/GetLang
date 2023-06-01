@@ -14,7 +14,7 @@ Running Getlang is as simple as running a script with a single command-line argu
 For example, to detect the language in `your_audio_file.mp3`, you would run:
 
 ```bash
-python getlang_module.py your_audio_file.mp3
+python getlang.py your_audio_file.mp3
 ```
 
 Please replace `your_audio_file.mp3` with the actual path to your audio file.
